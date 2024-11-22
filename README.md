@@ -1,4 +1,4 @@
-# **MyShop Project**
+# **Project documentation**
 
 Welcome to **MyShop**, a modular and generic library for building and managing e-commerce systems. Designed with flexibility, scalability, and maintainability in mind, this project enables seamless integration into various applications.
 
