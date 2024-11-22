@@ -10,6 +10,7 @@ Welcome to **MyShop**, a modular and generic library for building and managing e
 - [Technologies Used](#technologies-used)
 - [Architecture](#architecture)
 - [User Roles and Features](#user-roles-and-features)
+- [Deployment](#deployment)
 
 ---
 
@@ -72,3 +73,14 @@ Users have restricted access to core functionalities:
 - **View Order History**: Access a list of past orders and statuses.  
 
 ---
+
+## **Deployment**
+
+### **Experience It Live!** 🚀
+
+Curious to see MyShop in action?  
+**[👉 Click Here to Explore the Live Demo! 👈](https://librarymanagementsystem.runasp.net/)**  
+
+Whether you're browsing as a user or managing the shop as an admin, dive in and experience the features firsthand.  
+Don't forget to test the default credentials to get started! 😊
+
