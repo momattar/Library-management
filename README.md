@@ -9,6 +9,7 @@ Welcome to **MyShop**, a modular and generic library for building and managing e
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Architecture](#architecture)
+- [User Roles and Features](#user-roles-and-features)
 
 ---
 
@@ -51,5 +52,23 @@ The project is structured into three core libraries:
 
 3. **myshop.Utilities**  
    Includes shared utilities and helper functions to reduce repetitive coding.
+
+---
+
+## **User Roles and Features**
+
+### **Admin User**
+Admins have full control over the system and can perform the following actions:  
+- **Manage Products**: Add, update, delete, and view product details.  
+- **Manage Orders**: Process and update the status of orders.  
+- **Manage Users**: Add, remove, or update user information.  
+- **Analytics Dashboard**: Access system statistics, such as sales reports and user activity.  
+
+### **Regular Users**
+Users have restricted access to core functionalities:  
+- **Browse Products**: View the available products in the catalog.  
+- **Add to Cart**: Select items for purchase.  
+- **Place Orders**: Complete transactions through the checkout process.  
+- **View Order History**: Access a list of past orders and statuses.  
 
 ---
