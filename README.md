@@ -79,7 +79,7 @@ Users have restricted access to core functionalities:
 ### **Experience It Live!** 🚀
 
 Curious to see MyShop in action?  
-**[👉 Click Here to Explore the Live Demo! 👈](https://librarymanagementsystem.runasp.net/)**  
+**<a href="https://bugcrushers.runasp.net" target="_blank">👉 Click Here to Explore the Live Demo! 👈</a>**  
 
 Whether you're browsing as a user or managing the shop as an admin, dive in and experience the features firsthand.  
 Don't forget to test the default credentials to get started! 😊
