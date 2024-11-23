@@ -63,14 +63,20 @@ Admins have full control over the system and can perform the following actions:
 - **Manage Products**: Add, update, delete, and view product details.  
 - **Manage Orders**: Process and update the status of orders.  
 - **Manage Users**: Add, remove, or update user information.  
-- **Analytics Dashboard**: Access system statistics, such as sales reports and user activity.  
+- **Analytics Dashboard**: Access system statistics, such as sales reports and user activity.
+- ***Try Admin***
+  Email: MM@gmail.com
+  Password: 123456mM@@
 
 ### **Regular Users**
 Users have restricted access to core functionalities:  
 - **Browse Products**: View the available products in the catalog.  
 - **Add to Cart**: Select items for purchase.  
 - **Place Orders**: Complete transactions through the checkout process.  
-- **View Order History**: Access a list of past orders and statuses.  
+- **View Order History**: Access a list of past orders and statuses.
+- ***Try Customer***
+  Email: bugCrusher@DEPI.com
+  Password: 123@Depi
 
 ---
 
